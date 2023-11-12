@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #222222;
+    color: #fdfd96;
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    color: #fdfd96;
+    background: #ff6961;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+}
+
+button:active {
+    background: #36393e;
+}
+
+#password {
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
